@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas5PWPB</string>
+    <string name="nama">Nama</string>
+    <string name="baca">Baca Selengkapnya</string>
+    <string name="tipe">Type Pokemon</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="list">List</string>
+    <string name="card_view">Card View</string>
+</resources>
